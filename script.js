@@ -1,4 +1,3 @@
-
 var data="";
 
 function HandleResult(value){
